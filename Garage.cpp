@@ -3,7 +3,7 @@ using namespace std;
 
 struct garage {
     int Ferramentas;
-    int Kit_jardinagem;
+    int Kitjardinagem;
     int magueira;
     int tralhas;
 
@@ -11,5 +11,5 @@ struct garage {
 
 int main (){
 
-    
+
 }
