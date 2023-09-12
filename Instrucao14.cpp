@@ -15,5 +15,19 @@ struct Cozinha {
     string balcao;
     string microondas;
 };
+
+struct Casa_sala
+{
+    string sofa;
+    string televisao;
+    string painel;
+    string mesinha;
+    string hometeater;
+    string tapete;
+    string decoracao;
+    string ar_condicionado;
+    string tv_assinatura;
+    
+};
 return 0;
 }
