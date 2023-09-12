@@ -3,9 +3,9 @@
 #include <string>
 using namespace std;
 
-int main (){
 
-struct Cozinha {
+struct Cozinha 
+{
     string Fogao;
     string Geladeira;
     string Mesa;
@@ -48,5 +48,7 @@ struct garage {
 
 };
 
+int main (){
+    
 return 0;
 }
