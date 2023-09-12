@@ -38,7 +38,15 @@ struct banheiro
    string papel;
    string box;
    string toalha;
+};
+  
+struct garage {
+    int Ferramentas;
+    int Kitjardinagem;
+    int magueira;
+    int tralhas;
 
 };
+
 return 0;
 }
