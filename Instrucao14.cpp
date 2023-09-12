@@ -29,5 +29,16 @@ struct Casa_sala
     string tv_assinatura;
     
 };
+
+struct banheiro
+{
+   string vasoSanitario;
+   string pia;
+   string chuveiro;
+   string papel;
+   string box;
+   string toalha;
+
+};
 return 0;
 }
