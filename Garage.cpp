@@ -1,9 +1,15 @@
 #include <iostream>
+using namespace std;
 
 struct garage {
-    string Ferramentas;
-    string Kit_jardinagem;
-    string magueira;
-    string tralhas;
+    int Ferramentas;
+    int Kit_jardinagem;
+    int magueira;
+    int tralhas;
 
+};
+
+int main (){
+
+    
 }
